@@ -1,5 +1,5 @@
 # Luna Toolbox
-![](https://raw.githubusercontent.com/okangel12345/MSM2-LunaToolbox/refs/heads/main/Resources/Intro2.png)
+![](https://raw.githubusercontent.com/okangel12345/MSM2-LunaToolbox/refs/heads/main/Resources/Toolbox.png)
 
 **Luna Toolbox** is a powerful and versatile modding toolkit designed for Marvel’s Spider-Man 2.
 
