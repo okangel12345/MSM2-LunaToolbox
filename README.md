@@ -18,7 +18,19 @@ This collection of utilities simplifies the modding workflow by providing easy-t
 While Insomniac Engine isn't required for most of the program's functionality, you'll still need to do the following:
 - Set "IG_ROOT" environment variable to "C:\", or any other disk you prefer ("D:\", "E:\").
 - Place your LunaToolbox.exe in %IG_ROOT%i30\LunaToolbox.exe
-- Move the Utilities folder into %IG_ROOT%i30 - keep it intact unless you know what you're doing.
+- Move the Utilities folder into %IG_ROOT%i30 - keep it intact unless you know what you're doing!
+
+## Roadmap
+- Enhanced "Run Game" mechanics in the launcher.
+- Tools for creating .projects.
+- A built asset analyzer.
+- An integrated hex editor.
+- Built file deserializer.
+- Improved file browser.
+- Atmosphere Tool.
+
+## Contributing
+Whether you're looking to suggest improvements, report bugs, or add new features, your contributions are always appreciated!
 
 More documentation is in the works.
 
