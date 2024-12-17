@@ -5,7 +5,7 @@
 This collection of utilities simplifies the modding workflow by providing easy-to-use tools for file editing, asset compilation, and managing game assets directly from the launcher.
 **Luna Toolbox** integrates key features from the **Insomniac Engine**, enhances mod creation, and streamlines the modding process for Spider-Man modders.
 
-![](https://raw.githubusercontent.com/okangel12345/MSM2-LunaToolbox/refs/heads/main/Resources/Screen_RunGame.png)
+![](https://raw.githubusercontent.com/okangel12345/MSM2-LunaToolbox/refs/heads/main/Resources/Screen_RunGame2.png)
 
 ## Features
 
